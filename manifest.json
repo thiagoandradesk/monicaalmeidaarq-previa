@@ -1,0 +1,420 @@
+{
+ "retrato-sobre-01": {
+  "grupo": "retrato-sobre",
+  "tipo": "retrato",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/Ddv5DZ1FVvq/",
+  "indice_carrossel": 1,
+  "recorte": "y 0-880 de 1080 (faixa verde removida)",
+  "proporcao": 1.2273,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 391
+   },
+   {
+    "largura": 960,
+    "altura": 782
+   },
+   {
+    "largura": 1080,
+    "altura": 880
+   }
+  ]
+ },
+ "projeto-area-de-espera-01": {
+  "grupo": "projeto-area-de-espera",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/Ddv5H8NFXAr/",
+  "indice_carrossel": 1,
+  "recorte": "y 0-880 de 1080 (faixa verde removida)",
+  "proporcao": 1.2273,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 391
+   },
+   {
+    "largura": 960,
+    "altura": 782
+   },
+   {
+    "largura": 1080,
+    "altura": 880
+   }
+  ]
+ },
+ "projeto-consultorio-visao-01": {
+  "grupo": "projeto-consultorio-visao",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/Ddv5OsPFQ-j/",
+  "indice_carrossel": 1,
+  "recorte": "y 0-880 de 1080 (faixa verde removida)",
+  "proporcao": 1.2273,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 391
+   },
+   {
+    "largura": 960,
+    "altura": 782
+   },
+   {
+    "largura": 1080,
+    "altura": 880
+   }
+  ]
+ },
+ "projeto-consultorio-01": {
+  "grupo": "projeto-consultorio",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJdKJmNt2/",
+  "indice_carrossel": 1,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1080,
+    "altura": 1080
+   }
+  ]
+ },
+ "projeto-consultorio-02": {
+  "grupo": "projeto-consultorio",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJdKJmNt2/",
+  "indice_carrossel": 2,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1080,
+    "altura": 1080
+   }
+  ]
+ },
+ "projeto-consultorio-03": {
+  "grupo": "projeto-consultorio",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJdKJmNt2/",
+  "indice_carrossel": 3,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1080,
+    "altura": 1080
+   }
+  ]
+ },
+ "projeto-consultorio-04": {
+  "grupo": "projeto-consultorio",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJdKJmNt2/",
+  "indice_carrossel": 4,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1080,
+    "altura": 1080
+   }
+  ]
+ },
+ "projeto-consultorio-odonto-01": {
+  "grupo": "projeto-consultorio-odonto",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJKzlGAwB/",
+  "indice_carrossel": 1,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1080,
+    "altura": 1080
+   }
+  ]
+ },
+ "projeto-consultorio-odonto-02": {
+  "grupo": "projeto-consultorio-odonto",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJKzlGAwB/",
+  "indice_carrossel": 2,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1080,
+    "altura": 1080
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-01": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 1,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-02": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 2,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-03": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 3,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-04": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 4,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-05": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 5,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-06": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 6,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-07": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 7,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-08": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 8,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-09": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 9,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ },
+ "projeto-recepcao-oftalmologia-10": {
+  "grupo": "projeto-recepcao-oftalmologia",
+  "tipo": "portfolio",
+  "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+  "indice_carrossel": 10,
+  "recorte": "integral",
+  "proporcao": 1,
+  "variantes": [
+   {
+    "largura": 480,
+    "altura": 480
+   },
+   {
+    "largura": 960,
+    "altura": 960
+   },
+   {
+    "largura": 1600,
+    "altura": 1600
+   }
+  ]
+ }
+}

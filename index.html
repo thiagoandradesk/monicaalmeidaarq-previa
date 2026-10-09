@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Monica Almeida | Arquitetura que Cuida — Arquitetura para Saúde</title>
+    <meta
+      name="description"
+      content="Arquitetura para ambientes de saúde em Chapecó/SC e em todo o Brasil: projetos, consultoria e palestras que unem neuroarquitetura e experiência do paciente."
+    />
+    <!-- Prévia de prospecção: não indexar (intencional) -->
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="canonical" href="https://previa-monica-almeida.vercel.app/" />
+    <meta name="theme-color" content="#324937" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:site_name" content="Monica Almeida | Arquitetura que Cuida" />
+    <meta property="og:title" content="Monica Almeida | Arquitetura que Cuida — Arquitetura para Saúde" />
+    <meta
+      property="og:description"
+      content="Arquitetura para ambientes de saúde em Chapecó/SC e em todo o Brasil: projetos, consultoria e palestras que unem neuroarquitetura e experiência do paciente."
+    />
+    <meta property="og:url" content="https://previa-monica-almeida.vercel.app/" />
+    <meta property="og:image" content="https://previa-monica-almeida.vercel.app/og/home.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="Logotipo Arquitetura que Cuida sobre verde ao lado do render de um consultório odontológico com divisórias em arco."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/logo/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/logo/favicon-192.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/logo/apple-touch-icon.png" />
+
+    <link rel="preload" href="/fonts/libre-baskerville-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/montserrat-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "LocalBusiness",
+            "@id": "https://previa-monica-almeida.vercel.app/#negocio",
+            "name": "Monica Almeida | Arquitetura que Cuida",
+            "url": "https://previa-monica-almeida.vercel.app/",
+            "image": "https://previa-monica-almeida.vercel.app/og/home.jpg",
+            "logo": "https://previa-monica-almeida.vercel.app/logo/logo-verde.png",
+            "telephone": "+55-49-99969-1919",
+            "address": { "@type": "PostalAddress", "addressLocality": "Chapecó", "addressRegion": "SC", "addressCountry": "BR" },
+            "areaServed": "Brasil",
+            "sameAs": ["https://www.instagram.com/arquiteta_monicaalmeida/"],
+            "founder": { "@type": "Person", "name": "Monica Almeida", "jobTitle": "Arquiteta" }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://previa-monica-almeida.vercel.app/#site",
+            "url": "https://previa-monica-almeida.vercel.app/",
+            "name": "Monica Almeida | Arquitetura que Cuida",
+            "inLanguage": "pt-BR",
+            "publisher": { "@id": "https://previa-monica-almeida.vercel.app/#negocio" }
+          }
+        ]
+      }
+    </script>
+    <script type="module" src="/src/main.ts"></script>
+  </head>
+
+  <body>
+    <a class="pular" href="#conteudo">Pular para o conteúdo</a>
+
+    <p class="faixa-previa" role="note">
+      Prévia de site desenvolvida pela RevoluTech para Monica Almeida. Mostra uma direção de linguagem, não a versão final.
+    </p>
+
+    <header class="topo" id="topo">
+      <div class="container topo__linha">
+        <a class="marca" href="#topo">
+          <img src="/logo/logo-creme.png" width="460" height="344" alt="Arquitetura que Cuida — Monica Almeida" decoding="async" />
+        </a>
+
+        <button class="menu-botao" type="button" aria-expanded="false" aria-controls="menu" aria-label="Abrir menu">
+          <span class="menu-botao__traco" aria-hidden="true"></span>
+        </button>
+
+        <nav class="menu" id="menu" aria-label="Principal">
+          <ul class="menu__lista">
+            <li><a class="menu__link" href="#sobre">Sobre</a></li>
+            <li><a class="menu__link" href="#projetos">Projetos</a></li>
+            <li><a class="menu__link" href="#como-trabalho">Como trabalho</a></li>
+            <li><a class="menu__link" href="#contato">Contato</a></li>
+          </ul>
+          <a
+            class="botao botao--contorno menu__whats"
+            href="https://wa.me/5549999691919?text=Ol%C3%A1%2C%20Monica!%20Vi%20o%20site%20da%20Arquitetura%20que%20Cuida%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto."
+            target="_blank"
+            rel="noopener"
+            >Falar no WhatsApp</a
+          >
+        </nav>
+      </div>
+    </header>
+
+    <main id="conteudo">
+      <!-- HERO -->
+      <section class="hero" aria-labelledby="hero-titulo">
+        <div class="container hero__grade">
+          <div class="hero__texto">
+            <h1 class="hero__titulo" id="hero-titulo">Arquitetura para ambientes de saúde</h1>
+            <p class="hero__destaque">O cuidado começa antes do atendimento.</p>
+            <p class="hero__frase">
+              Ele começa na chegada, na forma como encontramos o caminho, na luz, no som e no lugar onde esperamos.
+            </p>
+            <div class="hero__acoes">
+              <a
+                class="botao botao--creme"
+                href="https://wa.me/5549999691919?text=Ol%C3%A1%2C%20Monica!%20Vi%20o%20site%20da%20Arquitetura%20que%20Cuida%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto."
+                target="_blank"
+                rel="noopener"
+                >Conversar sobre meu projeto</a
+              >
+              <a class="botao botao--texto" href="#projetos">Ver projetos</a>
+            </div>
+          </div>
+
+          <figure class="hero__figura">
+            <div class="arco arco--hero">
+              <picture>
+                <source
+                  type="image/avif"
+                  srcset="
+                    /img/projeto-consultorio-odonto-02-480.avif   480w,
+                    /img/projeto-consultorio-odonto-02-960.avif   960w,
+                    /img/projeto-consultorio-odonto-02-1080.avif 1080w
+                  "
+                  sizes="(min-width: 960px) 40vw, 100vw"
+                />
+                <img
+                  src="/img/projeto-consultorio-odonto-02-960.webp"
+                  srcset="
+                    /img/projeto-consultorio-odonto-02-480.webp   480w,
+                    /img/projeto-consultorio-odonto-02-960.webp   960w,
+                    /img/projeto-consultorio-odonto-02-1080.webp 1080w
+                  "
+                  sizes="(min-width: 960px) 40vw, 100vw"
+                  width="1080"
+                  height="1080"
+                  alt="Render de consultório odontológico com divisórias em arco de moldura dourada, cadeira odontológica em couro caramelo e piso em mármore."
+                  fetchpriority="high"
+                  decoding="async"
+                  style="--foco: 50% 50%"
+                />
+              </picture>
+            </div>
+            <figcaption class="hero__legenda">Projeto · consultório médico-odontológico</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <!-- MANIFESTO -->
+      <section class="manifesto" id="manifesto" aria-labelledby="manifesto-titulo">
+        <div class="container manifesto__grade">
+          <div class="manifesto__abertura">
+            <p class="manifesto__lead">Minha visão de arquitetura para a saúde começa com uma pergunta:</p>
+            <h2 class="manifesto__titulo" id="manifesto-titulo">Como as pessoas vivem este espaço?</h2>
+            <p class="manifesto__texto">
+              Observo o caminho de quem chega, a espera, a privacidade, a iluminação e as condições de trabalho de quem cuida.
+            </p>
+          </div>
+
+          <div class="percurso" id="percurso">
+            <svg class="percurso__linha" aria-hidden="true" focusable="false">
+              <path class="percurso__traco" d="" />
+            </svg>
+            <ol class="percurso__lista">
+              <li class="percurso__item">
+                <span class="percurso__ponto" aria-hidden="true"></span>
+                <span class="percurso__num" aria-hidden="true">01</span>
+                <h3 class="percurso__rotulo">Chegada e caminho</h3>
+                <p class="percurso__frase">O caminho de quem chega.</p>
+              </li>
+              <li class="percurso__item">
+                <span class="percurso__ponto" aria-hidden="true"></span>
+                <span class="percurso__num" aria-hidden="true">02</span>
+                <h3 class="percurso__rotulo">Espera</h3>
+                <p class="percurso__frase">O lugar onde esperamos.</p>
+              </li>
+              <li class="percurso__item">
+                <span class="percurso__ponto" aria-hidden="true"></span>
+                <span class="percurso__num" aria-hidden="true">03</span>
+                <h3 class="percurso__rotulo">Privacidade</h3>
+                <p class="percurso__frase">A privacidade.</p>
+              </li>
+              <li class="percurso__item">
+                <span class="percurso__ponto" aria-hidden="true"></span>
+                <span class="percurso__num" aria-hidden="true">04</span>
+                <h3 class="percurso__rotulo">Luz e som</h3>
+                <p class="percurso__frase">Na luz e no som.</p>
+              </li>
+              <li class="percurso__item">
+                <span class="percurso__ponto" aria-hidden="true"></span>
+                <span class="percurso__num" aria-hidden="true">05</span>
+                <h3 class="percurso__rotulo">Quem cuida</h3>
+                <p class="percurso__frase">As condições de trabalho de quem cuida.</p>
+              </li>
+            </ol>
+            <p class="percurso__fecho">
+              <strong>Arquitetura que Cuida:</strong> espaços pensados para funcionar bem e acolher pessoas.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- PROJETOS -->
+      <section class="projetos" id="projetos" aria-labelledby="projetos-titulo">
+        <div class="container">
+          <div class="secao__cabeca">
+            <h2 class="secao__titulo" id="projetos-titulo">Projetos</h2>
+            <p class="secao__nota">Renders de projeto para ambientes de saúde. Clique em uma imagem para ampliar.</p>
+          </div>
+
+          <div class="projetos__grade">
+            <!-- P1 -->
+            <article class="projeto projeto--p1" data-galeria="p1">
+              <button class="projeto__thumb" type="button" data-abrir="p1" data-indice="0" aria-label="Ampliar imagens do projeto: consultório médico-odontológico (5 imagens)">
+                <picture>
+                  <source
+                    type="image/avif"
+                    srcset="/img/projeto-consultorio-odonto-01-480.avif 480w, /img/projeto-consultorio-odonto-01-960.avif 960w, /img/projeto-consultorio-odonto-01-1080.avif 1080w"
+                    sizes="(min-width: 960px) 56vw, 100vw"
+                  />
+                  <img
+                    src="/img/projeto-consultorio-odonto-01-960.webp"
+                    srcset="/img/projeto-consultorio-odonto-01-480.webp 480w, /img/projeto-consultorio-odonto-01-960.webp 960w, /img/projeto-consultorio-odonto-01-1080.webp 1080w"
+                    sizes="(min-width: 960px) 56vw, 100vw"
+                    width="1080"
+                    height="1080"
+                    alt="Render de consultório médico-odontológico: divisórias em arco com moldura dourada, cadeira odontológica em couro caramelo e mesa em mármore ao fundo."
+                    loading="lazy"
+                    decoding="async"
+                    style="--foco: 50% 55%"
+                  />
+                </picture>
+              </button>
+              <div class="projeto__texto">
+                <p class="projeto__tipo">Projeto · consultório médico-odontológico</p>
+                <h3 class="projeto__titulo">Cada detalhe comunica cuidado.</h3>
+                <p class="projeto__descricao">
+                  Ambiente sofisticado, acolhedor e atemporal: iluminação, materiais nobres, cores suaves e layout funcional para
+                  reduzir a ansiedade.
+                </p>
+                <p class="projeto__contagem">5 imagens</p>
+              </div>
+              <script type="application/json" class="projeto__dados">
+                [
+                  { "base": "projeto-consultorio-odonto-01", "max": 1080, "alt": "Consultório médico-odontológico: divisórias em arco, cadeira odontológica em couro caramelo e mesa em mármore ao fundo." },
+                  { "base": "projeto-consultorio-04", "max": 1080, "alt": "Consultório: mesa em mármore, lustre de esferas de vidro, espelhos em arco e poltrona em couro caramelo." },
+                  { "base": "projeto-consultorio-03", "max": 1080, "alt": "Consultório: mesa em mármore com computador, cadeira em couro caramelo e divisórias em arco com moldura dourada." },
+                  { "base": "projeto-consultorio-odonto-02", "max": 1080, "alt": "Consultório odontológico visto entre as divisórias em arco de moldura dourada, com cadeira em couro caramelo." },
+                  { "base": "projeto-consultorio-01", "max": 1080, "alt": "Consultório: mesa em mármore, poltronas em couro caramelo e painel decorativo azul e dourado ao fundo." }
+                ]
+              </script>
+            </article>
+
+            <!-- P2 -->
+            <article class="projeto projeto--p2" data-galeria="p2">
+              <button class="projeto__thumb" type="button" data-abrir="p2" data-indice="0" aria-label="Ampliar imagens do projeto: recepção de clínica oftalmológica (3 imagens)">
+                <picture>
+                  <source
+                    type="image/avif"
+                    srcset="/img/projeto-recepcao-oftalmologia-04-480.avif 480w, /img/projeto-recepcao-oftalmologia-04-960.avif 960w, /img/projeto-recepcao-oftalmologia-04-1600.avif 1600w"
+                    sizes="(min-width: 960px) 40vw, 100vw"
+                  />
+                  <img
+                    src="/img/projeto-recepcao-oftalmologia-04-960.webp"
+                    srcset="/img/projeto-recepcao-oftalmologia-04-480.webp 480w, /img/projeto-recepcao-oftalmologia-04-960.webp 960w, /img/projeto-recepcao-oftalmologia-04-1600.webp 1600w"
+                    sizes="(min-width: 960px) 40vw, 100vw"
+                    width="1600"
+                    height="1600"
+                    alt="Render da área de espera de uma clínica oftalmológica: poltronas cinza, painéis ripados em madeira e luz natural pelas janelas."
+                    loading="lazy"
+                    decoding="async"
+                    style="--foco: 50% 50%"
+                  />
+                </picture>
+              </button>
+              <div class="projeto__texto">
+                <p class="projeto__tipo">Projeto · recepção de clínica oftalmológica</p>
+                <h3 class="projeto__titulo">A espera transformada em acolhimento.</h3>
+                <p class="projeto__descricao">
+                  Iluminação para conforto visual, com menos ofuscamento; materiais naturais e cores suaves. Neuroarquitetura e
+                  design salutogênico aplicados ao espaço de espera.
+                </p>
+                <p class="projeto__contagem">3 imagens</p>
+              </div>
+              <script type="application/json" class="projeto__dados">
+                [
+                  { "base": "projeto-recepcao-oftalmologia-04", "max": 1600, "alt": "Área de espera da clínica oftalmológica: poltronas cinza, painéis ripados em madeira e luz natural." },
+                  { "base": "projeto-recepcao-oftalmologia-06", "max": 1600, "alt": "Circulação da clínica oftalmológica com portas, molduras na parede e poltronas de espera." },
+                  { "base": "projeto-recepcao-oftalmologia-08", "max": 1600, "alt": "Recepção da clínica oftalmológica: balcão em madeira clara, divisória em painel e área de espera ao fundo." }
+                ]
+              </script>
+            </article>
+
+            <!-- P3 -->
+            <article class="projeto projeto--p3" data-galeria="p3">
+              <button class="projeto__thumb" type="button" data-abrir="p3" data-indice="0" aria-label="Ampliar imagem do projeto: área de espera (1 imagem)">
+                <picture>
+                  <source
+                    type="image/avif"
+                    srcset="/img/projeto-area-de-espera-01-480.avif 480w, /img/projeto-area-de-espera-01-960.avif 960w, /img/projeto-area-de-espera-01-1080.avif 1080w"
+                    sizes="(min-width: 960px) 56vw, 100vw"
+                  />
+                  <img
+                    src="/img/projeto-area-de-espera-01-960.webp"
+                    srcset="/img/projeto-area-de-espera-01-480.webp 480w, /img/projeto-area-de-espera-01-960.webp 960w, /img/projeto-area-de-espera-01-1080.webp 1080w"
+                    sizes="(min-width: 960px) 56vw, 100vw"
+                    width="1080"
+                    height="880"
+                    alt="Render de área de espera com poltronas em couro caramelo, painel vazado em madeira e metal e vista da cidade pela janela."
+                    loading="lazy"
+                    decoding="async"
+                    style="--foco: 50% 60%"
+                  />
+                </picture>
+              </button>
+              <div class="projeto__texto">
+                <p class="projeto__tipo">Projeto · área de espera</p>
+                <h3 class="projeto__titulo">Os assentos convidam à permanência.</h3>
+                <p class="projeto__descricao">
+                  O painel vazado organiza o espaço sem fechá-lo e a luz natural aproxima o ambiente da cidade.
+                </p>
+                <p class="projeto__contagem">1 imagem</p>
+              </div>
+              <script type="application/json" class="projeto__dados">
+                [
+                  { "base": "projeto-area-de-espera-01", "max": 1080, "alt": "Área de espera com poltronas em couro caramelo, painel vazado e vista da cidade pela janela." }
+                ]
+              </script>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- COMO TRABALHO -->
+      <section class="servicos" id="como-trabalho" aria-labelledby="servicos-titulo">
+        <div class="container servicos__grade">
+          <div class="servicos__cabeca">
+            <h2 class="secao__titulo" id="servicos-titulo">Como trabalho</h2>
+            <p class="servicos__nota">Online e presencial, em todo o Brasil.</p>
+          </div>
+          <ol class="servicos__lista">
+            <li class="servico">
+              <h3 class="servico__nome">Projetos</h3>
+              <p class="servico__texto">Para consultórios médicos e odontológicos, clínicas e hospitais.</p>
+            </li>
+            <li class="servico">
+              <h3 class="servico__nome">Consultoria</h3>
+              <p class="servico__texto">
+                Neuroarquitetura e experiência do paciente para ambientes mais claros, acolhedores e adequados ao cuidado.
+              </p>
+            </li>
+            <li class="servico">
+              <h3 class="servico__nome">Palestras</h3>
+              <p class="servico__texto">Para profissionais e instituições de saúde.</p>
+            </li>
+          </ol>
+        </div>
+      </section>
+
+      <!-- SOBRE -->
+      <section class="sobre" id="sobre" aria-labelledby="sobre-titulo">
+        <div class="container sobre__grade">
+          <figure class="sobre__figura">
+            <div class="arco arco--retrato">
+              <picture>
+                <source
+                  type="image/avif"
+                  srcset="/img/retrato-sobre-01-480.avif 480w, /img/retrato-sobre-01-960.avif 960w, /img/retrato-sobre-01-1080.avif 1080w"
+                  sizes="(min-width: 960px) 34vw, 80vw"
+                />
+                <img
+                  src="/img/retrato-sobre-01-960.webp"
+                  srcset="/img/retrato-sobre-01-480.webp 480w, /img/retrato-sobre-01-960.webp 960w, /img/retrato-sobre-01-1080.webp 1080w"
+                  sizes="(min-width: 960px) 34vw, 80vw"
+                  width="1080"
+                  height="880"
+                  alt="Monica Almeida, de blazer verde, sentada em uma poltrona clara, com plantas e flores ao fundo."
+                  loading="lazy"
+                  decoding="async"
+                  style="--foco: 42% 50%"
+                />
+              </picture>
+            </div>
+          </figure>
+          <div class="sobre__texto">
+            <h2 class="secao__titulo" id="sobre-titulo">Monica Almeida</h2>
+            <p class="sobre__lead">Sou Monica Almeida, arquiteta especializada em ambientes de saúde.</p>
+            <p>
+              Uno arquitetura, neuroarquitetura e experiência do paciente para ajudar profissionais e instituições de saúde a
+              criar ambientes mais claros, acolhedores e adequados ao cuidado.
+            </p>
+            <p class="sobre__local">Chapecó/SC · atendimento em todo o Brasil, online e presencial.</p>
+            <a class="link-seta" href="https://www.instagram.com/arquiteta_monicaalmeida/" target="_blank" rel="noopener"
+              >@arquiteta_monicaalmeida no Instagram</a
+            >
+          </div>
+        </div>
+      </section>
+
+      <!-- CONTATO -->
+      <section class="contato" id="contato" aria-labelledby="contato-titulo">
+        <div class="container contato__grade">
+          <div class="contato__abertura">
+            <h2 class="contato__titulo" id="contato-titulo">Que experiência você gostaria de oferecer a quem entra no seu espaço?</h2>
+            <p class="contato__texto">Conte sobre o seu espaço de saúde. A conversa pode começar pelo WhatsApp ou pelo formulário.</p>
+            <a
+              class="botao botao--creme"
+              href="https://wa.me/5549999691919?text=Ol%C3%A1%2C%20Monica!%20Vi%20o%20site%20da%20Arquitetura%20que%20Cuida%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto."
+              target="_blank"
+              rel="noopener"
+              >Falar no WhatsApp</a
+            >
+            <p class="contato__numero">WhatsApp (49) 99969-1919</p>
+          </div>
+
+          <form class="formulario" id="formulario" novalidate aria-describedby="formulario-nota">
+            <p class="formulario__nota" id="formulario-nota">Formulário de demonstração desta prévia: nada é enviado.</p>
+
+            <div class="campo">
+              <label for="nome">Nome</label>
+              <input id="nome" name="nome" type="text" autocomplete="name" required minlength="2" maxlength="120" aria-describedby="erro-nome" />
+              <p class="campo__erro" id="erro-nome" aria-live="polite"></p>
+            </div>
+
+            <div class="campo">
+              <label for="whatsapp">WhatsApp</label>
+              <input id="whatsapp" name="whatsapp" type="tel" inputmode="tel" autocomplete="tel" required maxlength="20" aria-describedby="erro-whatsapp" />
+              <p class="campo__erro" id="erro-whatsapp" aria-live="polite"></p>
+            </div>
+
+            <div class="campo">
+              <label for="email">E-mail <span class="campo__opcional">(opcional)</span></label>
+              <input id="email" name="email" type="email" inputmode="email" autocomplete="email" maxlength="160" aria-describedby="erro-email" />
+              <p class="campo__erro" id="erro-email" aria-live="polite"></p>
+            </div>
+
+            <div class="campo">
+              <label for="tipo">Tipo de espaço</label>
+              <select id="tipo" name="tipo" aria-describedby="erro-tipo">
+                <option value="">Selecione</option>
+                <option value="consultorio-medico">Consultório médico</option>
+                <option value="consultorio-odontologico">Consultório odontológico</option>
+                <option value="clinica">Clínica</option>
+                <option value="hospital">Hospital</option>
+                <option value="outro">Outro</option>
+              </select>
+              <p class="campo__erro" id="erro-tipo" aria-live="polite"></p>
+            </div>
+
+            <div class="campo">
+              <label for="mensagem">Mensagem</label>
+              <textarea id="mensagem" name="mensagem" rows="4" required minlength="10" maxlength="1000" aria-describedby="erro-mensagem"></textarea>
+              <p class="campo__erro" id="erro-mensagem" aria-live="polite"></p>
+            </div>
+
+            <div class="hp" aria-hidden="true">
+              <label for="website">Não preencha este campo</label>
+              <input id="website" name="website" type="text" tabindex="-1" autocomplete="off" />
+            </div>
+
+            <div class="campo campo--consentimento">
+              <label class="consentimento" for="consentimento">
+                <input id="consentimento" name="consentimento" type="checkbox" required aria-describedby="erro-consentimento" />
+                <span>Autorizo o uso dos meus dados para retorno deste contato, conforme a Política de Privacidade.</span>
+              </label>
+              <p class="campo__erro" id="erro-consentimento" aria-live="polite"></p>
+            </div>
+
+            <button class="botao botao--verde formulario__enviar" type="submit">Enviar mensagem</button>
+
+            <p class="formulario__retorno" id="formulario-retorno" role="status" tabindex="-1" hidden></p>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="rodape">
+      <div class="container rodape__grade">
+        <a class="rodape__marca" href="#topo">
+          <img src="/logo/logo-creme.png" width="460" height="344" alt="Arquitetura que Cuida — Monica Almeida" loading="lazy" decoding="async" />
+        </a>
+        <div class="rodape__contato">
+          <a href="https://www.instagram.com/arquiteta_monicaalmeida/" target="_blank" rel="noopener">Instagram @arquiteta_monicaalmeida</a>
+          <a
+            href="https://wa.me/5549999691919?text=Ol%C3%A1%2C%20Monica!%20Vi%20o%20site%20da%20Arquitetura%20que%20Cuida%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto."
+            target="_blank"
+            rel="noopener"
+            >WhatsApp (49) 99969-1919</a
+          >
+          <p>Chapecó/SC · atendimento em todo o Brasil, online e presencial</p>
+        </div>
+        <p class="rodape__credito">
+          Prévia RevoluTech · desenvolvida pela RevoluTech Sistemas Digitais para Monica Almeida. Mostra uma direção de linguagem,
+          não a versão final.
+        </p>
+      </div>
+    </footer>
+
+    <dialog class="lightbox" id="lightbox" aria-label="Imagem ampliada">
+      <figure class="lightbox__figura">
+        <img class="lightbox__img" id="lb-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="1600" height="1600" />
+        <figcaption class="lightbox__legenda">
+          <span id="lb-legenda"></span>
+          <span class="lightbox__contador" id="lb-contador"></span>
+        </figcaption>
+      </figure>
+      <button class="lightbox__botao lightbox__anterior" type="button" aria-label="Imagem anterior">
+        <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="1.5" /></svg>
+      </button>
+      <button class="lightbox__botao lightbox__proxima" type="button" aria-label="Próxima imagem">
+        <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="1.5" /></svg>
+      </button>
+      <button class="lightbox__botao lightbox__fechar" type="button" aria-label="Fechar">
+        <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="1.5" /></svg>
+      </button>
+    </dialog>
+
+    <a
+      class="whats-flutuante"
+      id="whats-flutuante"
+      href="https://wa.me/5549999691919?text=Ol%C3%A1%2C%20Monica!%20Vi%20o%20site%20da%20Arquitetura%20que%20Cuida%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto."
+      target="_blank"
+      rel="noopener"
+      aria-label="Falar no WhatsApp"
+    >
+      <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true">
+        <path
+          fill="currentColor"
+          d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 1.8a8.2 8.2 0 1 1-4.2 15.3l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 0 1 12 3.8Zm-3.3 4.4c-.2 0-.5 0-.7.3-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.2 5 4.4 2.5 1 3 .8 3.5.7.6 0 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4l-.6-.3-2-1c-.3-.1-.5-.2-.7.2l-.9 1.1c-.2.2-.3.2-.6.1a6.7 6.7 0 0 1-3.4-3c-.2-.4 0-.5.2-.7l.5-.6.3-.5v-.5l-1-2.2c-.2-.5-.4-.5-.6-.5h-.4Z"
+        />
+      </svg>
+    </a>
+  </body>
+</html>

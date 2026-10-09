@@ -1,0 +1,23 @@
+{
+  "name": "previa-monica-almeida",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173 --strictPort",
+    "assets:baixar": "node scripts/baixar-assets.mjs",
+    "assets:processar": "node scripts/processar-assets.mjs",
+    "assets:logo": "node scripts/recortar-logo.mjs",
+    "assets:contact-sheet": "node scripts/contact-sheet.mjs",
+    "assets:og": "node scripts/gerar-og.mjs"
+  },
+  "devDependencies": {
+    "@fontsource/libre-baskerville": "^5.3.0",
+    "@fontsource/montserrat": "^5.3.0",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}
