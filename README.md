@@ -34,13 +34,11 @@ Alertas esperados por ser prévia: noindex, `Disallow: /`, sem sitemap, sem /obr
 
 ## Publicar (prévia, sem domínio)
 
+Repositório: `thiagoandradesk/monicaalmeidaarq-previa` (remote `origin`). Projeto Vercel `monicaalmeidaarq-previa`, ligado ao repositório: todo push na `main` gera deploy em https://monicaalmeidaarq-previa.vercel.app/.
+
 ```bash
-gh auth login
-gh repo create previa-monica-almeida --private --source . --push
-vercel login
-vercel link --yes --project previa-monica-almeida
-vercel deploy --prod
-python -X utf8 .claude/skills/sites-revolutech/scripts/qa_site.py https://<url-da-vercel> --saida qa/previa-vercel
+git push origin main
+python -X utf8 .claude/skills/sites-revolutech/scripts/qa_site.py https://monicaalmeidaarq-previa.vercel.app --saida qa/previa-vercel
 ```
 
-Canonical, `og:url` e `og:image` seguem `VERCEL_PROJECT_PRODUCTION_URL` no build (ver `vite.config.ts`).
+O upload pelo navegador do GitHub não serve (limite de 100 arquivos por vez; `public/img` tem 115). Canonical, `og:url` e `og:image` seguem `VERCEL_PROJECT_PRODUCTION_URL` no build (ver `vite.config.ts`).

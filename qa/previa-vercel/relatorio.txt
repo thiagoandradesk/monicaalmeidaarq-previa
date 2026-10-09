@@ -1,0 +1,38 @@
+== QA de site: https://monicaalmeidaarq-previa.vercel.app/
+== Arquivos do site
+  OK      robots.txt existe
+  ALERTA  robots.txt sem linha 'Sitemap: https://…'
+  ALERTA  robots.txt bloqueia o site inteiro (Disallow: /) — só aceitável em preview
+  ALERTA  sitemap.xml ausente (HTTP 404)
+  OK      rota inexistente responde 404 real
+  INFO    /obrigado não encontrado (obrigatório se o site tem formulário)
+  INFO    /admin não encontrado (ok se o site não tem painel)
+
+== Página /
+  OK      title (63 car.)
+  OK      meta description
+  OK      canonical presente
+  ALERTA  página com noindex (só aceitável em preview, /obrigado ou /admin)
+  OK      Open Graph completo
+  OK      og:image 1200×630
+  OK      JSON-LD: LocalBusiness, Person, PostalAddress, WebSite
+  OK      8 imagem(ns) carregadas com alt
+  OK      form #1: campos com label
+  OK      form #1: honeypot encontrado (website)
+  OK      form #1: consentimento LGPD não pré-marcado
+  ALERTA  página com formulário sem link para Política de Privacidade
+  OK      WhatsApp 5549… com mensagem
+  ALERTA  texto provisório na página: ['TODO', 'todo']
+  OK      console sem erros
+
+== Responsividade (captura por viewport)
+-- celular 390x844 /
+  OK      [celular] sem rolagem lateral
+  INFO    [celular] 1 alvo(s) de toque entre 24 e 40px (confortável ≥ 44px): ['consentimento']
+-- tablet 768x1024 /
+  OK      [tablet] sem rolagem lateral
+-- desktop 1440x900 /
+  OK      [desktop] sem rolagem lateral
+
+RESULTADO: 6 alerta(s), 17 ok, 3 info — 1 página(s)
+Revise com os próprios olhos: home_mosaico.jpg e a pasta capturas/ (celular, tablet, desktop).
