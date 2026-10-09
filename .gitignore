@@ -1,0 +1,17 @@
+# dependências e build
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+
+# assets originais baixados do Instagram (fora do git; usar scripts/baixar-assets.mjs)
+assets-originais/
+
+# saídas de QA e temporários
+qa/**/capturas/
+qa/**/*.jpg
+qa/**/*.png
+*.log
+.DS_Store
+Thumbs.db

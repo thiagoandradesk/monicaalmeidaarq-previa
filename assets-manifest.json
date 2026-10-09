@@ -1,0 +1,192 @@
+{
+ "cliente": "Monica Almeida | Arquitetura que Cuida (Chapecó/SC)",
+ "coletado_em": "2026-10-09",
+ "procedencia": "Asset real da cliente: posts públicos do Instagram @arquiteta_monicaalmeida. Uso restrito à prévia apresentada a ela (noindex).",
+ "validade_urls": "As URLs assinadas do Instagram expiram por volta de 13/10/2026 ~20h UTC. Depois disso, usar o 'post' (permalink) para recoletar.",
+ "nao_usar": [
+  "Posts de 'mood' com imagens de natureza/pessoas (DdwngMhmB90, DdwnpkRGDLy, Ddwnvy0mGLX): aparentam ser imagens ilustrativas, não projetos dela.",
+  "Reels (DX2IiRBiKAF, DXkKFYUApnz): o primeiro mostra marca de hospital na imagem [VERIFICAR] — não citar como cliente."
+ ],
+ "itens": [
+  {
+   "id": "logo-01",
+   "grupo": "logo",
+   "tipo": "logo",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/Ddtr8axlbM8/",
+   "indice_carrossel": 1,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/820852820_18626435554037061_6792321687477894549_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NDA0MTcxMjQ2NTI2MTM3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=trimZky1vloQ7kNvwHvXtQL&_nc_oc=AdrJpsykX0tjOmuNYfK-i1UlzdKKsN2suiJWl6t_kRP7VB3vVIS-QSOiVcO7Ebo5GZ4&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=tQEdfwx5ZwNHjHufuB4hcg&_nc_ss=72689&oh=00_AQOB3azvKrjZKqcEBYk7ZpbRUdPYCk5_JX1LKYl4bC5H_w&oe=6ACEBF08",
+   "observacao": "Post de lançamento da marca (25/09/2026) com o logotipo 'Arquitetura que Cuida' em creme sobre verde. Usar SÓ para recortar o logotipo (área ~x 300–770, y 690–1020 no 1080) e gerar PNG transparente creme e verde. Não redesenhar. Pedir o vetor oficial à Monica no fechamento."
+  },
+  {
+   "id": "retrato-sobre-01",
+   "grupo": "retrato-sobre",
+   "tipo": "retrato",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/Ddv5DZ1FVvq/",
+   "indice_carrossel": 1,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/825276686_18626716675037061_4244585284814856882_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NDY2MjMxNzA0NDYyMDI2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6slwFumTDEsQ7kNvwFPcG03&_nc_oc=Adq9TnkKickHtbvdrxZJmfzPoPHbfSMD17j2Pi5PbjSVdEOQ5DFfrowq7p48UhvzB6Q&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=vFpN0m7oacP9Q9Xh7oLBrg&_nc_ss=72689&oh=00_AQORI6HcXjTP-b1iOAkEwNGdMfdAN85tw7BM0essYqF7-Q&oe=6ACE9F8E",
+   "observacao": "Retrato profissional da Monica (blazer verde). Tem faixa verde 'Sobre' embutida na base: recortar para manter só a área y 0–880 (de 1080)."
+  },
+  {
+   "id": "projeto-area-de-espera-01",
+   "grupo": "projeto-area-de-espera",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/Ddv5H8NFXAr/",
+   "indice_carrossel": 1,
+   "url_original": "https://instagram.ffln3-1.fna.fbcdn.net/v/t51.82787-15/825276487_18626717005037061_4331445356286668083_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NDY2MjYyODgzMjQwNzU5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nYYELsx6-dQQ7kNvwFmq_2G&_nc_oc=Adorwp3i1hElKy2J8TzcnOGN4XftrChscoUmTYAMNL3H12XKrMBo8Oze0k4bLPY4JPQ&_nc_zt=23&_nc_ht=instagram.ffln3-1.fna&_nc_gid=uBhwzQltJ8JfwQ0yYo7c2Q&_nc_ss=72689&oh=00_AQN-Q2-Sd_-xKNbh04iGTslzKAod4QvtOv7mh9BeC5ExTw&oe=6ACE9E9F",
+   "observacao": "Área de espera com poltronas caramelo, painel vazado e vista da cidade. Faixa 'Projetos' embutida na base: recortar y 0–880."
+  },
+  {
+   "id": "projeto-consultorio-visao-01",
+   "grupo": "projeto-consultorio-visao",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/Ddv5OsPFQ-j/",
+   "indice_carrossel": 1,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/825276584_18626717377037061_4092878292819020619_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NDY2MzA5MjcyMjQwNTI4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=P52dp7BVL8UQ7kNvwF0-GIA&_nc_oc=Adqap39cyzi7-EYmFLFszYKZS7NXco1NmftqaFkrYKnagbu_VIlefwirztDyBH86GMg&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=oUx6N2yArQZyoJyuA9L3Qg&_nc_ss=72689&oh=00_AQM9J63Q6CJPqf2Vfl_tuIWMCqnQ2gBYRmAZ9dKW91F26Q&oe=6ACE9CE2",
+   "observacao": "Consultório odontológico com divisórias em arco, mármore e cadeira caramelo. Faixa 'Visão' embutida: recortar y 0–880. Mesmo projeto das imagens do grupo 'projeto-consultorio'."
+  },
+  {
+   "id": "projeto-consultorio-01",
+   "grupo": "projeto-consultorio",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJdKJmNt2/",
+   "indice_carrossel": 1,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/743995968_18600948499037061_5542427790024416227_n.webp?_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQzODk5NTYzNzkyOTA0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MXn7NUOp4RIQ7kNvwFouTO4&_nc_oc=Adp9LgoL8WVdUCmTbsyGlqz3T9REEWUarnRKHMN_Id_gWFQH0xo3WBxTI8Wq9k4_TaQ&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=RotQ9kCeX_3__kEOpiM6TA&_nc_ss=72689&oh=00_AQNHxO4OB-MSpnigESX1BbS8fgSEXqefaN4YV8Jhe3ZTHg&oe=6ACEADAE",
+   "observacao": "Consultório (mesa em mármore, poltronas caramelo, arcos com moldura dourada). 4 imagens 1080, sem texto embutido."
+  },
+  {
+   "id": "projeto-consultorio-02",
+   "grupo": "projeto-consultorio",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJdKJmNt2/",
+   "indice_carrossel": 2,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/733606104_18600948514037061_5870755324637388743_n.webp?_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQzODk5ODY0MDk1MjA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=bVVgPfIOE6cQ7kNvwHNYstY&_nc_oc=AdrPEhdWlCTcAKfYPYevvbXUnxznOLezBK5RyWFBhUN59JjXFOf7VwjgbH8LSKNz7VI&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=RotQ9kCeX_3__kEOpiM6TA&_nc_ss=72689&oh=00_AQM9wRDH1FxlJJx0uh-6GQgEmpH34Lx7s0eu99VSMYcDag&oe=6ACECD1A",
+   "observacao": "Consultório (mesa em mármore, poltronas caramelo, arcos com moldura dourada). 4 imagens 1080, sem texto embutido."
+  },
+  {
+   "id": "projeto-consultorio-03",
+   "grupo": "projeto-consultorio",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJdKJmNt2/",
+   "indice_carrossel": 3,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/742060269_18600948517037061_1701806315069412659_n.webp?_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQzOTAwMDQ3ODA4MzY3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TaPvDvUqD70Q7kNvwGKtI9X&_nc_oc=AdoN3-9HBY_b0UgXi_1-uSCiIwuymoND-hr6KWCnPqjXX2rNk7QzoMFP3dcg8PqMPF0&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=RotQ9kCeX_3__kEOpiM6TA&_nc_ss=72689&oh=00_AQO_Ilcp7TXvYF6enJ7k0OqFovsM8Vx7hs3agkBPEJEW6g&oe=6ACEB22A",
+   "observacao": "Consultório (mesa em mármore, poltronas caramelo, arcos com moldura dourada). 4 imagens 1080, sem texto embutido."
+  },
+  {
+   "id": "projeto-consultorio-04",
+   "grupo": "projeto-consultorio",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJdKJmNt2/",
+   "indice_carrossel": 4,
+   "url_original": "https://instagram.ffln3-1.fna.fbcdn.net/v/t51.82787-15/736493802_18600948526037061_1387947412839566425_n.webp?_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQzOTAwMzE3MDc1OTAwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ce9Bn_fUeRgQ7kNvwGyYoOi&_nc_oc=Ado54C1J1q29z_9VRGbN3dpJzGmFc9kkgUc834ug1Zp-APuRlyP9SgP8F8DuL9NyslA&_nc_zt=23&_nc_ht=instagram.ffln3-1.fna&_nc_gid=RotQ9kCeX_3__kEOpiM6TA&_nc_ss=72689&oh=00_AQOeDv_lmSk_m9TurxHOq9_ATD1P_lQ4NOsK04stYuDF0A&oe=6ACEAF89",
+   "observacao": "Consultório (mesa em mármore, poltronas caramelo, arcos com moldura dourada). 4 imagens 1080, sem texto embutido."
+  },
+  {
+   "id": "projeto-consultorio-odonto-01",
+   "grupo": "projeto-consultorio-odonto",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJKzlGAwB/",
+   "indice_carrossel": 1,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/730397756_18600947017037061_4753477299937035575_n.webp?_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQzNTg1NjQyNzg4NzEwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=n4WPYM1nPnAQ7kNvwGgr3Pt&_nc_oc=AdpxxXrolsEHt7cACc_Ow1GBBsLU4x8_c74hCnRoT9gS_mSFnEOUlSqa3Xvn2XRg8Os&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=0hagYHOERNZjAu5ha9qKPg&_nc_ss=72689&oh=00_AQPkCaqXKSZh4XSl5pYgZj4OX08jV8qamFZFVlKJipXHZA&oe=6ACE9836",
+   "observacao": "Consultório odontológico (mesmo conjunto visual dos arcos). 2 imagens 1080, sem texto embutido."
+  },
+  {
+   "id": "projeto-consultorio-odonto-02",
+   "grupo": "projeto-consultorio-odonto",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoJKzlGAwB/",
+   "indice_carrossel": 2,
+   "url_original": "https://instagram.ffln3-1.fna.fbcdn.net/v/t51.82787-15/736153920_18600947035037061_6312816038176455125_n.webp?_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQzNjM3Njg5OTAyMDY1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pan0L2zztAEQ7kNvwFiot_l&_nc_oc=AdquEcbEeA4Onz11_s5akNziDaB1OMaz2M-dzfxxR2lrrNztfUt-v3clFWzUBqh07dQ&_nc_zt=23&_nc_ht=instagram.ffln3-1.fna&_nc_gid=0hagYHOERNZjAu5ha9qKPg&_nc_ss=72689&oh=00_AQO2ndhSVUnwTyoy6VmHx1x9E5mjwUz065s3ax5zjOfTcg&oe=6ACE9746",
+   "observacao": "Consultório odontológico (mesmo conjunto visual dos arcos). 2 imagens 1080, sem texto embutido."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-01",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 1,
+   "url_original": "https://instagram.ffln3-1.fna.fbcdn.net/v/t51.82787-15/732494603_18600942967037061_5155037163777590433_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTY0NDEwNDIwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=p53nWna8qiIQ7kNvwELfJIn&_nc_oc=Adr2dC2LhUb11ViBJCVaRUkGyRHsrQTuOocnTjRgs7VKbAjIJNVnIa53Pygd2B4SXaE&_nc_zt=23&_nc_ht=instagram.ffln3-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQMNeLR7hzts5jsGG8eLdKt9tcYxbNngxPO9CiDg4VYFtQ&oe=6ACE9763",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-02",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 2,
+   "url_original": "https://instagram.ffln3-1.fna.fbcdn.net/v/t51.82787-15/731808383_18600943012037061_7022817860241860465_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTM5MjQ0NzEyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nwMUq5DCDrYQ7kNvwE-PBUN&_nc_oc=AdqTnKRIC6clYFuIZBnukhHg9VYjmPNhh5DJrlrom7aaniVM-dnVUz4Ko4f2WvVv5Xg&_nc_zt=23&_nc_ht=instagram.ffln3-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQN6u-J4-fabuCCZ5YzUdUqgiADOFZnE3Qu9VMC6giK98g&oe=6ACEAB47",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-03",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 3,
+   "url_original": "https://instagram.ffln3-1.fna.fbcdn.net/v/t51.82787-15/743995948_18600942976037061_3909142149342217675_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTcxMTE4ODA5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6pr1RCrROrYQ7kNvwEaggYW&_nc_oc=AdrGE1Gic1fRSM60yWMmgBsNbXOo6A250ZeJOH0bc7AMXrpDoxo71xMhx-WtIPZwEUk&_nc_zt=23&_nc_ht=instagram.ffln3-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQPPj8vy40LfeGEQDGVDelTYXdCyrhPYF5-hzD3JkqTY9A&oe=6ACE9C81",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-04",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 4,
+   "url_original": "https://instagram.ffln3-1.fna.fbcdn.net/v/t51.82787-15/734455707_18600942979037061_7757915503414593255_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTkyOTMyNjY1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rkQjLd1WFe0Q7kNvwFJZVhB&_nc_oc=AdoD4b7FvACG2-YEN_pbcQhXkLEOxY8N7viNgPp6eLP8N4ig-VqTnTPJXGkvpm13Sro&_nc_zt=23&_nc_ht=instagram.ffln3-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQN3KpSPfvwrxSaR7E2QQcTDNuWjl9Ngyc8nWb26QtSEYA&oe=6ACE9CB7",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-05",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 5,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/736440449_18600942952037061_3394989774584939064_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTc4NjcxNzI3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3f9FyAojFDMQ7kNvwGY7sOu&_nc_oc=Adqjm24nDT3VljF8OZERGwJbLFK4xb_F-ABY3o_TVbIFMeceoJyrvwW7VV_82mHzHxo&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQNm4eSMCfhHyiEzb5B6LPOhbUoGbiFd0Bl1wPddHms2ZA&oe=6ACEBF2C",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-06",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 6,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/735446769_18600943021037061_2672586403127469518_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTUwOTg5ODkxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qzDV6zfVx0QQ7kNvwFQqTjt&_nc_oc=Adr7_3MJAOdVEmPnXsIo01PMWILciEc7vh16OjLJOfQqRsVsPjPuX9Wxo8myePDRB74&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQOY6T1sV2INS5eaIkjLAuP0YNq2EzK_s38jsOTqaF_JXg&oe=6ACE9A1D",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-07",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 7,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/736163383_18600943024037061_5692393437824262785_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTUzNTAxMzYyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_nu-kwxKuwgQ7kNvwGENOVz&_nc_oc=AdptoiRGa4uO2Sr9vQg-dZfHEaQtuf8z8lOrLuh5fJbMtakR8JcfHrn3vGIpaUl-lVI&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQObpGhixombCObvRYEkWm0Rq9BllPsVYm71CMk2hyi_qg&oe=6ACEBA27",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-08",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 8,
+   "url_original": "https://instagram.ffln3-1.fna.fbcdn.net/v/t51.82787-15/731185576_18600943015037061_4046233473235383048_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTM5MjQxODM1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=PC-JsR3b760Q7kNvwFAnkvb&_nc_oc=Adp27PUSjIeee69Zc1efWQn6u3Fut-bhgC2cfel0KtE4ja3TvUwTxrEFHzSrseAyVds&_nc_zt=23&_nc_ht=instagram.ffln3-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQOA5LiWeHakxDRZCEy7k02xJ8Tuedf142R7LvBDMAF9hA&oe=6ACEA62B",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-09",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 9,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/730313322_18600942943037061_1453351720775884278_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTcwMjc5NzcyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sH6oNviH5IgQ7kNvwFQmeJO&_nc_oc=Adp88kj5mYeJYgkEZ3Uwl5PRw2GKN2z2pcBvdrWNfRSek-UhL1CYmueORNZREPr599g&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQO-XoVcZtUuLEQ29J6RMqNUa6NGCKSyP1G1jEOvuRV-jA&oe=6ACEBB6C",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  },
+  {
+   "id": "projeto-recepcao-oftalmologia-10",
+   "grupo": "projeto-recepcao-oftalmologia",
+   "tipo": "portfolio",
+   "post": "https://www.instagram.com/arquiteta_monicaalmeida/p/DaoGjFKmDML/",
+   "indice_carrossel": 10,
+   "url_original": "https://instagram.ffln4-1.fna.fbcdn.net/v/t51.82787-15/730381840_18600943018037061_5967698245606959119_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=MzkzODQyNjY1NTUzNTA2MjQyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=osHsZNdRfUEQ7kNvwFVpyLl&_nc_oc=AdraaRjAv5k_OCaM31cHqWy55PbimMrtmD0FDaGKwa92skoFqUOGYOzTG92qT8ir9ag&_nc_zt=23&_nc_ht=instagram.ffln4-1.fna&_nc_gid=PxbYNM8blw4BJ5uK-JgN2Q&_nc_ss=72689&oh=00_AQMGImdXhWf14uSWr0_wXB5pkpZuJLP-TDE9iCPZv9BHUg&oe=6ACE9EF2",
+   "observacao": "Recepção de clínica oftalmológica (painéis ripados em madeira, poltronas cinza). 10 imagens 4096x4096. O logotipo do cliente final aparece na parede: NÃO citar o nome da clínica no texto sem confirmação [VERIFICAR]. Curar 3 a 4 imagens."
+  }
+ ]
+}
